@@ -1,2 +1,5 @@
-# Boletim.diario_ONS
-Disponibilização de dados do Boletim Diário da Operação do ONS em Excel e de forma colunar. Atualmente, de todas as planilhas nas pastas excel, somente estão catalogadas: Balanço Energético, Despacho Térmico, Energia Natural Afluente e Energia Armazenada.
+## Boletim.diario_ONS
+
+O objetivo principal desse projeto é obter um banco de dados do Boletim Diário da Operação do ONS da ONS em PostgreeSQL de atualização automatizada e visualização em PowerBI.
+
+# Etapa 1 - 
