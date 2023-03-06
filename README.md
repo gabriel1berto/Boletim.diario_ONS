@@ -10,10 +10,18 @@ O objetivo principal desse projeto é obter um banco de dados do Boletim Diário
 
 ## Etapa 2 - ETL em Python
 
-## Etapa 3 - Criação do banco de dados PostgreSQL -> AWS
+## Etapa 3 - Criação do banco de dados PostgreSQL
 
-## Etapa 4 - Alimentação do banco de dados
+## Etapa 4 - Alimentação do banco de dados de forma automatiza
 
-## Etapa 5 - Visualização
+## Etapa 5 - Visualização em PowerBI 
 
+
+#Versão 2
+
+## Etapa 1 - Automação de download com lambda_AWS
+
+## Etapa 2 - ETL com lambda_AWS
+
+## Etapa 3 - Banco de dados RDS-AWS
 
