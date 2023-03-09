@@ -27,4 +27,8 @@ O objetivo principal desse projeto é obter um banco de dados do Boletim Diário
 
 # Versão 3
 
-report automatizado??
+## Etapa 1 - Previsões por regressão
+
+## Etapa 2 - ML
+
+## Etapa 3 - Relacionamento com outra fonte de dados (hidrologicos ou trade)
