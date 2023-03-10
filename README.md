@@ -17,6 +17,7 @@ O objetivo principal desse projeto é obter um banco de dados do Boletim Diário
 ### Etapa 5 - Visualização em PowerBI 
 
 
+
 # Versão 2
 
 ### Etapa 1 - Automação de download com lambda_AWS
@@ -24,6 +25,8 @@ O objetivo principal desse projeto é obter um banco de dados do Boletim Diário
 ### Etapa 2 - ETL com lambda_AWS
 
 ### Etapa 3 - Banco de dados RDS-AWS
+
+
 
 # Versão 3
 
