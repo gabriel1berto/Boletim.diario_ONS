@@ -26,10 +26,12 @@ O objetivo principal da versão 1 é desenvolver uma estrutura automatizada segu
 O objetivo principal a versão 2 é utilizar os serviços da AWS para operar de forma segura (conteinerização docker) e estável.
 
 ### Etapa 1 - Automação de download com lambda_AWS
+https://www.youtube.com/watch?v=da6E0R2grfo
 
 ### Etapa 2 - ETL com lambda_AWS
 
 ### Etapa 3 - Banco de dados RDS-AWS
+https://www.youtube.com/watch?v=Gd9oljNO5p0
 
 ### Etaoa 4 - visualização na AWS??
 
