@@ -10,13 +10,13 @@ A ONS disponibiliza uma plataforma web para carregamento de dados situacionais e
 # Versão 1 (100% - 12\03)
 O objetivo principal da versão 1 é desenvolver uma estrutura automatizada segura para captar dados diários da ONS, realizar ETL nas tabelas e armazena-los em um banco em PostgreSQL.
 
-### Etapa 1 - Automação de download com spam informativo no telegram
+### Etapa 1 - Automação de download com spam informativo no telegram ✔
 
-### Etapa 2 - ETL em Python
+### Etapa 2 - ETL em Python ✔
 
-### Etapa 3 - Criação do banco de dados PostgreSQL
+### Etapa 3 - Criação do banco de dados PostgreSQL ✔
 
-### Etapa 4 - Alimentação do banco de dados de forma automatiza
+### Etapa 4 - Alimentação do banco de dados de forma automatiza ✔
 
 
 
@@ -24,9 +24,9 @@ O objetivo principal da versão 1 é desenvolver uma estrutura automatizada segu
 O objetivo principal a versão 2 é utilizar os serviços da AWS para operar de forma segura (conteinerização docker) e estável.
 ![ONS project](https://user-images.githubusercontent.com/84819715/225630111-737d2828-76a8-44ea-bfae-f049e52fbf21.png)
 https://lucid.app/lucidchart/d7d8a9fe-ca68-450a-9089-2d72ce54ecdb/edit?rtempr=1&page=eNbqbEM6f5NI&invitationId=inv_3b093e37-b59e-46a5-b6a7-82bb18c70eb0#
-### Etapa 1 - Automação de download com lambda_AWS e armazenamento temporário S3 (100%)
+### Etapa 1 - Automação de download com lambda_AWS e armazenamento temporário S3 ✔
 
-### Etapa 2 - ETL com lambda_AWS e armazenamento temporário S3 (70%)
+### Etapa 2 - ETL com lambda_AWS e armazenamento temporário S3 ✔
 
 ### Etapa 3 - Alimentação do rds
 
