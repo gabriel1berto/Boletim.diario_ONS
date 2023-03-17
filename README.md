@@ -27,7 +27,7 @@ https://lucid.app/lucidchart/d7d8a9fe-ca68-450a-9089-2d72ce54ecdb/edit?rtempr=1&
 ### Etapa 1 - Automação de download com lambda_AWS e armazenamento temporário S3 ✔
 
 ### Etapa 2 - ETL com lambda_AWS e armazenamento temporário S3 ✔
-
+https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_PostgreSQL.S3Import.html
 ### Etapa 3 - Alimentação do rds
 
 
