@@ -35,7 +35,11 @@ https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGuide/USER_PostgreSQL.S3I
 # Versão 3 (26/03)
 O objetivo principal da versão 3 é integrar a api CCEE e implementar modelos de previsão por regressão e machine learn.
 
-### Etapa 1 - Incremento da API CCEE (lambda e gateway)
+### Etapa 1 - Incremento de APIs do setor (lambda e gateway)
+API ONS - https://portal-integra.ons.org.br/api-docs (https://www.google.com/search?sxsrf=AJOqlzWp4ZWA-0o_ovykGFh5-TDKAkCERA:1679070436242&q=requisi%C3%A7%C3%B5es+de+api+ons&spell=1&sa=X&ved=2ahUKEwidsZ7nsOP9AhURr5UCHW95BUMQBSgAegQICBAB&biw=985&bih=938&dpr=0.94#fpstate=ive&vld=cid:96f19c9f,vid:ZHH2qEh990g)
+API MLE - 
+API PEE -
+API ANEEL -
 
 ### Etapa 2 - Previsões por regressão (Amazon SageMaker Model)
 
