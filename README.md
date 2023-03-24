@@ -22,6 +22,8 @@ O objetivo principal da versão 1 é desenvolver uma estrutura automatizada segu
 
 # Versão 2 (19/03)
 O objetivo principal a versão 2 é utilizar os serviços da AWS para operar de forma segura (conteinerização docker) e estável.
+
+Antes de qualquer projeto na aws é interessante desenhar uma arquitetura básica e criar funções AIM para liberar movimentações de dados e requisições de acessos de funções lambda à bancos de dados. 
 ![ONS project](https://user-images.githubusercontent.com/84819715/225630111-737d2828-76a8-44ea-bfae-f049e52fbf21.png)
 
 https://lucid.app/lucidchart/d7d8a9fe-ca68-450a-9089-2d72ce54ecdb/edit?rtempr=1&page=eNbqbEM6f5NI&invitationId=inv_3b093e37-b59e-46a5-b6a7-82bb18c70eb0#
